@@ -1,0 +1,31 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sol_pricelist
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 10:57+0000\n"
+"PO-Revision-Date: 2020-06-19 10:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sol_pricelist
+#: model:ir.model.fields,field_description:sol_pricelist.field_sale_order_line__price_list_id
+msgid "Pricelist"
+msgstr "Liste de prix"
+
+#. module: sol_pricelist
+#: model:ir.model,name:sol_pricelist.model_sale_order
+msgid "Sales Order"
+msgstr "Bon de commande"
+
+#. module: sol_pricelist
+#: model:ir.model,name:sol_pricelist.model_sale_order_line
+msgid "Sales Order Line"
+msgstr "Ligne de bons de commande"
